@@ -1,6 +1,4 @@
-Hi, I am Manan!
+Hi, I am Manan.
 
-This is my portfolio website!
+This is my portfolio website -
 [https://manan.is-a.dev]
-
-Check it out!
